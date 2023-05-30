@@ -23,8 +23,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   :seedling: Exploring Story Writing.
   
-  :zap: In my free time, I read books and write my first sci-fi book called Last Hope.
-  
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
